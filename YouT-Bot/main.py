@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Токен бота
-TOKEN = "7956874669:AAH7Vhhp-i_5kXF_9BzOAzJRcfP7XaQuE8s"
+TOKEN = "BOT_FATHER"
 
 # Функция для проверки, является ли сообщение ссылкой на YouTube
 def is_youtube_url(url):
